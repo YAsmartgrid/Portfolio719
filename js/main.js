@@ -23,6 +23,7 @@ function welcome() {
 
 function nav() {
 	$(".nav").fadeIn(1000);
+	$(".moto").fadeIn(1000);
 }
 
 $('.nav').click(function() {
